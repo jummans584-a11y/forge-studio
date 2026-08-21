@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jummans584_a11y.twa",
+        "sha256_cert_fingerprints": ["AF:E5:EB:7A:27:DA:8B:D5:82:42:DC:1A:71:77:37:7C:57:CB:18:2C:41:47:BA:FE:C8:47:EC:8B:D0:5F:3F:C6"]
+      }
+    }]
